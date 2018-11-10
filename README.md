@@ -1,7 +1,8 @@
 Ejemplo                                                                                                                                                                 
 ==========
 
-[![Build Status](https://nicopaez.ci.cloudbees.com/view/Algo3/job/proyecto-base-aglo3/badge/icon)](https://nicopaez.ci.cloudbees.com/view/Algo3/job/proyecto-base-aglo3/)
+[![Build Status](https://travis-ci.org/pacugliari/Prueba.svg?branch=master)](https://travis-ci.org/pacugliari/Prueba)[![codecov](https://codecov.io/gh/pacugliari/Prueba/branch/master/graph/badge.svg)](https://codecov.io/gh/pacugliari/Prueba)
+
 
 Este proyecto es un simple ejemplo que muestra un proyecto base en Java para la material Algo3.
 
